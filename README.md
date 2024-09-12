@@ -1,4 +1,4 @@
-## Hi there, I'm Mazwi 👋
+### Hi there, I'm Mazwi 👋
 
 I’m a passionate hobbyist software engineer with a keen interest in building innovative web applications that harness the power of AI and ML. My focus is on creating user-friendly tools that make everyday tasks more efficient and enjoyable. I’m always eager to collaborate on exciting projects and share knowledge about cutting-edge technologies.
 
@@ -10,7 +10,9 @@ What I’m excited about:
 
 Let’s connect and build something amazing together!
 
-## :hammer_and_wrench: Languages and Tools :
+##
+
+### :hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
